@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+
+# 数据文件（太大，不上传）
+data/*.pkl
+data/*.h5
+data/*.zip
+
+# 模型文件（太大，不上传）
+models/*.pth
+models/*.pt
+models/*.h5
+
+# IDE
+.vscode/
+.idea/
